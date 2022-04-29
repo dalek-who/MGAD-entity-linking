@@ -1,0 +1,43 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+data
+.fitlog
+.fitconfig
+logs
+*_output
+pretrain_weight
+tencent-toy-data
+toy-data/tokenized
+toy-data/finder.json
+fitlog.log
+jupyter.log
+nohup.out
+full_wikipedia_link_luke_format
+important_ckpt
+
+__pycache__
+*/__pycache__
+**/__pycache__
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints
+**/.ipynb_checkpoints
+
+.virtual_documents
+*/.virtual_documents
+**/.virtual_documents
+
+tmp
+code_toy
+analysis
+dev/code_debug
+dev/entity_resource
+dev/type_words
